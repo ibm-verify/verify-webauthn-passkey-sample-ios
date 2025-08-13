@@ -433,7 +433,7 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		44DF71A529DFB61A00CEB6D9 /* XCRemoteSwiftPackageReference "webauthn-relying-party-kit-ios" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/ibm-security-verify/webauthn-relying-party-kit-ios";
+			repositoryURL = "https://github.com/ibm-verify/webauthn-relying-party-kit-ios";
 			requirement = {
 				branch = main;
 				kind = branch;
