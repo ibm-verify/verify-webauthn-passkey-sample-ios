@@ -1,5 +1,5 @@
 //
-// Copyright contributors to the IBM Security Verify Sample App for Passkey on iOS
+// Copyright contributors to the IBM Verify Sample App for Passkey on iOS
 //
 
 import Foundation

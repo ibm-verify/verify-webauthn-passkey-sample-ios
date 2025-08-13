@@ -3,7 +3,7 @@
     {
       "identity" : "webauthn-relying-party-kit-ios",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/ibm-security-verify/webauthn-relying-party-kit-ios",
+      "location" : "https://github.com/ibm-verify/webauthn-relying-party-kit-ios",
       "state" : {
         "branch" : "main",
         "revision" : "ba24ff14dfe7d57b1ee01c84017a2476b0d44b5a"
